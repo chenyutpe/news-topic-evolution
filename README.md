@@ -13,7 +13,7 @@ We seperate the data from the front page and others, analysis the differences as
 
 ## Usage
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chenyutpe/colabtools/blob/main/scrapping_and_wordclouds.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chenyutpe/news-topic-evolution/blob/main/scrapping_and_wordclouds.ipynb)
 
 We provide 2 main settings for you to adjust (you can find them at the top of the notebook)
 
